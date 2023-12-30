@@ -8,6 +8,7 @@ import 'package:threads/views/home_screen.dart';
 import '../repos/auth_repo.dart';
 import '../utils.dart';
 
+// firebase example
 class SignUpViewModel extends AsyncNotifier<void> {
   late final AuthenticationRepository _repository;
 

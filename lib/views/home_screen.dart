@@ -68,6 +68,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                   colorBlendMode: BlendMode.srcIn,
                 ),
               ),
+              // river_pod example
               ref.watch(threadProvider).when(
                 data: (data) {
                   return SliverList(

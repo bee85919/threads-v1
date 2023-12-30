@@ -8,6 +8,7 @@ import 'package:threads/views/privacy_screen.dart';
 import 'package:threads/views/settings_screen.dart';
 import 'package:threads/views/sign_up_screen.dart';
 
+// GoRouter
 final routerProvider = Provider((ref) {
   return GoRouter(
     initialLocation: "/",
