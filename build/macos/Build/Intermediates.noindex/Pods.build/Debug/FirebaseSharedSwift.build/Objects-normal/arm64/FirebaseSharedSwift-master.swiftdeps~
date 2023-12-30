@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "ce02c4bb107f17d3c2653c1369f91fe011949962dcce2ba1aa354f9119ed6daf"
+build_start_time: [1703608253, 853455000]
+build_end_time: [1703608253, 951244000]
+inputs:
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/FirebaseRemoteConfigValueDecoding.swift"
+  : !private [1703608224, 448302901]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/third_party/FirebaseDataEncoder/FirebaseDataEncoder.swift"
+  : !private [1703608224, 448066241]

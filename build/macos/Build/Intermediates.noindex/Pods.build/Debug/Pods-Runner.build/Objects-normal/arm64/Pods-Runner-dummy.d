@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/b06/Downloads/flutter-study-c655b6e1ca48cc77256a54c281c0ded12bacdb80/threads/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Pods-Runner.build/module.modulemap \
-  /Users/b06/Downloads/flutter-study-c655b6e1ca48cc77256a54c281c0ded12bacdb80/threads/macos/Pods/Target\ Support\ Files/Pods-Runner/Pods-Runner-dummy.m
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Pods-Runner.build/module.modulemap \
+  /Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/Target\ Support\ Files/Pods-Runner/Pods-Runner-dummy.m

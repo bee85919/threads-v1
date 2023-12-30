@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342781458764",
+    "project_id": "bee-threads-v1",
+    "storage_bucket": "bee-threads-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342781458764:android:d74f88b5e57cc0e37d37e9",
+        "android_client_info": {
+          "package_name": "com.example.threads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA3uUfJ1IA9fy-bXKrcfQl4NYzWI5CvvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

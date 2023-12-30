@@ -1,0 +1,45 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "4507e5f268e3085f26a19bd32ae6346ee559eb670a41192dda9966726bae5c5c"
+build_start_time: [1703608391, 215065000]
+build_end_time: [1703608391, 309801000]
+inputs:
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/CollectionReference+AsyncAwait.swift"
+  : !private [1703608214, 454998311]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/Firestore+AsyncAwait.swift"
+  : !private [1703608214, 454795233]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CodableErrors.swift": !private [1703608214, 451119712]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CodablePassThroughTypes.swift"
+  : !private [1703608214, 454242124]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CollectionReference+WriteEncodable.swift"
+  : !private [1703608214, 452312512]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentID.swift": !private [1703608214, 453396690]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+Codable.swift"
+  : !private [1703608214, 449953079]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+ReadDecodable.swift"
+  : !private [1703608214, 454043713]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+WriteEncodable.swift"
+  : !private [1703608214, 452547839]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentSnapshot+ReadDecodable.swift"
+  : !private [1703608214, 452970535]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/EncoderDecoder.swift": !private [1703608214, 451546867]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/ExplicitNull.swift": !private [1703608214, 450764139]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/FieldValue+Encodable.swift"
+  : !private [1703608214, 453788678]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/GeoPoint+Codable.swift": !private [1703608214, 451765111]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/ServerTimestamp.swift": !private [1703608214, 454433410]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Timestamp+Codable.swift": !private [1703608214, 450537104]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampDecodingStrategy.swift"
+  : !private [1703608214, 452754083]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampEncodingStrategy.swift"
+  : !private [1703608214, 453170613]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Transaction+WriteEncodable.swift"
+  : !private [1703608214, 452095685]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/WriteBatch+WriteEncodable.swift"
+  : !private [1703608214, 453591559]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQuery.swift"
+  : !private [1703608214, 455373509]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQueryObservable.swift"
+  : !private [1703608214, 455627835]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/QueryPredicate.swift"
+  : !private [1703608214, 455867370]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/SwiftHeaderWorkaround.swift": !private [1703608214, 449499425]

@@ -1,0 +1,15 @@
+"/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTask.swift":
+  diagnostics: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTask.dia"
+  dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTask.d"
+  object: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTask.o"
+  swift-dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTask.swiftdeps"
+"/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageReference.swift":
+  swift-dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageReference.swiftdeps"
+  object: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageReference.o"
+  dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageReference.d"
+  diagnostics: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageReference.dia"
+"/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTaskSnapshot.swift":
+  object: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.o"
+  diagnostics: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.dia"
+  dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.d"
+  swift-dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.swiftdeps"

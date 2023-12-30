@@ -1,0 +1,15 @@
+"/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/WriteBatch+WriteEncodable.swift":
+  object: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.o"
+  dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.d"
+  diagnostics: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.dia"
+  swift-dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.swiftdeps"
+"/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Transaction+WriteEncodable.swift":
+  swift-dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.swiftdeps"
+  diagnostics: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.dia"
+  object: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.o"
+  dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.d"
+"/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampEncodingStrategy.swift":
+  diagnostics: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.dia"
+  dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.d"
+  swift-dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.swiftdeps"
+  object: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.o"

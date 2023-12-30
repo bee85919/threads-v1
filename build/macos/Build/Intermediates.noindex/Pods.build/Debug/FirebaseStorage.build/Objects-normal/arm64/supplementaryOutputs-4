@@ -1,0 +1,15 @@
+"/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageListResult.swift":
+  swift-dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListResult.swiftdeps"
+  object: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListResult.o"
+  diagnostics: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListResult.dia"
+  dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListResult.d"
+"/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetMetadataTask.swift":
+  object: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetMetadataTask.o"
+  dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetMetadataTask.d"
+  diagnostics: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetMetadataTask.dia"
+  swift-dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetMetadataTask.swiftdeps"
+"/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageListTask.swift":
+  dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListTask.d"
+  swift-dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListTask.swiftdeps"
+  object: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListTask.o"
+  diagnostics: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListTask.dia"

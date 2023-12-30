@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "0bb80f0bafabafe44ce7fe3ea2e9db58c56ff6e8cd14ad2b1be43d312368af77"
+build_start_time: [1703608284, 821031000]
+build_end_time: [1703608284, 861477000]
+inputs:
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFunctions/FirebaseFunctions/Sources/Callable+Codable.swift": !private [1703608219, 608122491]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFunctions/FirebaseFunctions/Sources/Functions.swift": !private [1703608219, 607181017]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFunctions/FirebaseFunctions/Sources/FunctionsError.swift": !private [1703608219, 606868568]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFunctions/FirebaseFunctions/Sources/HTTPSCallable.swift": !private [1703608219, 606670115]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFunctions/FirebaseFunctions/Sources/HTTPSCallableOptions.swift": !private [1703608219, 607027605]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFunctions/FirebaseFunctions/Sources/Internal/FunctionsComponent.swift"
+  : !private [1703608219, 607823624]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFunctions/FirebaseFunctions/Sources/Internal/FunctionsContext.swift"
+  : !private [1703608219, 607434260]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFunctions/FirebaseFunctions/Sources/Internal/FunctionsSerializer.swift"
+  : !private [1703608219, 607624463]

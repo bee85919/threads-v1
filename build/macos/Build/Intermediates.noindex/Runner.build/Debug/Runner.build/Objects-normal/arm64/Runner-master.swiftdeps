@@ -1,9 +1,8 @@
 version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
-options: "9811571d78682a50772ad50112c23bf83fe1629428e020825121efaefb3e91f5"
-build_start_time: [1703254795, 13151000]
-build_end_time: [1703254799, 886304000]
+options: "23f4b2e58095415cb5dae5ebb9c86431a7b6b9acd2c80a0059849b0444e40b05"
+build_start_time: [1703860091, 116066000]
+build_end_time: [1703860094, 22298000]
 inputs:
-  ? "/Users/b06/Downloads/flutter-study-c655b6e1ca48cc77256a54c281c0ded12bacdb80/threads/macos/Flutter/GeneratedPluginRegistrant.swift"
-  : [1703254774, 127383833]
-  "/Users/b06/Downloads/flutter-study-c655b6e1ca48cc77256a54c281c0ded12bacdb80/threads/macos/Runner/AppDelegate.swift": [1698973219, 0]
-  "/Users/b06/Downloads/flutter-study-c655b6e1ca48cc77256a54c281c0ded12bacdb80/threads/macos/Runner/MainFlutterWindow.swift": [1698973219, 0]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Flutter/GeneratedPluginRegistrant.swift": [1703860076, 700652724]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Runner/AppDelegate.swift": [1698973219, 0]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Runner/MainFlutterWindow.swift": [1698973219, 0]

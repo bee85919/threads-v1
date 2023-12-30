@@ -1,0 +1,32 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "748c6ba3d74005fb77bdea32db782721b571a19818959fc3e0942e34d9ceed5a"
+build_start_time: [1703608283, 200104000]
+build_end_time: [1703608283, 242261000]
+inputs:
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift": !private [1703608224, 467762809]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageDeleteTask.swift": !private [1703608224, 465518331]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetDownloadURLTask.swift"
+  : !private [1703608224, 466202353]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetMetadataTask.swift"
+  : !private [1703608224, 467134327]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageListTask.swift": !private [1703608224, 467400236]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StoragePath.swift": !private [1703608224, 465883279]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTaskState.swift": !private [1703608224, 466721463]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTokenAuthorizer.swift"
+  : !private [1703608224, 466936166]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUpdateMetadataTask.swift"
+  : !private [1703608224, 466560885]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUtils.swift": !private [1703608224, 466385848]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift": !private [1703608224, 465244922]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift": !private [1703608224, 463177314]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageComponent.swift": !private [1703608224, 464742436]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageConstants.swift": !private [1703608224, 468662034]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageDownloadTask.swift": !private [1703608224, 463937584]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageError.swift": !private [1703608224, 469151561]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageListResult.swift": !private [1703608224, 464215076]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageMetadata.swift": !private [1703608224, 468468956]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageObservableTask.swift": !private [1703608224, 463698924]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageReference.swift": !private [1703608224, 468958192]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTask.swift": !private [1703608224, 464936556]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTaskSnapshot.swift": !private [1703608224, 463485722]
+  "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageUploadTask.swift": !private [1703608224, 468035760]

@@ -1,5 +1,5 @@
 import 'dart:math';
-
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
 String getImage() {
@@ -12,3 +12,20 @@ double getScreenHeight(BuildContext context) =>
 
 bool isDarkMode(BuildContext context) =>
     MediaQuery.of(context).platformBrightness == Brightness.dark;
+
+void showFirebaseErrorSnack(
+  BuildContext context,
+  Object? error,
+) {
+  ScaffoldMessenger.of(context).showSnackBar(
+    SnackBar(
+      showCloseIcon: true,
+      content: Text(
+        (error as FirebaseException).message ?? "Something wrong.",
+      ),
+    ),
+  );
+}
+
+String toImageURL(String imageUrl) =>
+    "https://firebasestorage.googleapis.com/v0/b/bee-threads-v1.appspot.com/o/${imageUrl.substring(1).replaceAll("/", "%2F")}?alt=media";

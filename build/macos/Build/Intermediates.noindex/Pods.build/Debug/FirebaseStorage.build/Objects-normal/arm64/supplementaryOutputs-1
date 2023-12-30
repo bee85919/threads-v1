@@ -1,0 +1,15 @@
+"/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift":
+  swift-dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.swiftdeps"
+  dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.d"
+  diagnostics: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.dia"
+  object: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.o"
+"/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift":
+  object: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.o"
+  diagnostics: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.dia"
+  swift-dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.swiftdeps"
+  dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.d"
+"/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift":
+  swift-dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.swiftdeps"
+  diagnostics: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.dia"
+  dependencies: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.d"
+  object: "/Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.o"

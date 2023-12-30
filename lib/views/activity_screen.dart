@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:threads/repos/user_repo.dart';
-import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:threads/view_models/settings_view_model.dart';
-
+import 'package:flutter_riverpod/flutter_riverpod.dart'; // added
+import 'package:threads/view_models/settings_view_model.dart'; // added
+import '../view_models/user_view_models.dart';
 import '../widgets/activity_tile.dart';
 
 class ActivityScreen extends ConsumerWidget {
@@ -71,7 +70,7 @@ class ActivityScreen extends ConsumerWidget {
               child: TabBarView(
                 children: [
                   FutureBuilder(
-                    future: UserRepository.searchUsers(""),
+                    future: ref.watch(usersProvider.notifier).searchUsers(""),
                     builder: (context, snapshot) {
                       if (snapshot.hasData) {
                         return ListView.separated(
@@ -87,9 +86,8 @@ class ActivityScreen extends ConsumerWidget {
                         );
                       } else if (snapshot.hasError) {
                         return Text(snapshot.error.toString());
-                      } else {
-                        return const CircularProgressIndicator();
                       }
+                      return const CircularProgressIndicator();
                     },
                   ),
                   const Center(

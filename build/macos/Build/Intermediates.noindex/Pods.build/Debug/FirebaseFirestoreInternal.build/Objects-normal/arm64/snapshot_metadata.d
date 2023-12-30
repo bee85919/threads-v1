@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/api/snapshot_metadata.cc \
+  /Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/api/snapshot_metadata.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/hashing.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/objc/objc_type_traits.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/type_traits.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/optional.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/utility/utility.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/inline_variable.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/invoke.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/bad_optional_access.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/internal/optional.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/memory/memory.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h

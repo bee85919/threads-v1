@@ -8,7 +8,6 @@ import 'package:threads/views/activity_screen.dart';
 import 'package:threads/views/profile_screen.dart';
 import 'package:threads/views/search_screen.dart';
 import 'package:threads/views/write_screen.dart';
-
 import '../../../constants/sizes.dart';
 import '../view_models/settings_view_model.dart';
 import '../widgets/nav_tab.dart';

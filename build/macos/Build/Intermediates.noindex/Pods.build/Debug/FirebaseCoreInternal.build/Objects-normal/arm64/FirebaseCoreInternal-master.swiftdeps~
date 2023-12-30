@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "05606b2d7a13b9576e2ca562af9fb05a5479fcb040a19a45c9cf60db90ed607e"
+build_start_time: [1703608253, 857399000]
+build_end_time: [1703608253, 954780000]
+inputs:
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : !private [1703608214, 428571475]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !private [1703608214, 429707860]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : !private [1703608214, 430220387]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !private [1703608214, 430586335]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !private [1703608214, 430798746]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !private [1703608214, 431263774]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : !private [1703608214, 428971631]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : !private [1703608214, 428244735]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : !private [1703608214, 431450102]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : !private [1703608214, 431002532]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !private [1703608214, 429396619]
+  ? "/Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !private [1703608214, 429933937]

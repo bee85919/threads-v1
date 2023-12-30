@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/protobuf/struct.nanopb.cc \
+  /Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/protobuf/struct.nanopb.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/nanopb/pb.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/nanopb/pretty_printing.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/str_cat.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/numbers.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/endian.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/casts.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/unaligned_access.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/bits.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/internal/bits.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/int128.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/int128_have_intrinsic.inc \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/b06/Desktop/nomad-coders/threads-v1/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/throw_delegate.h

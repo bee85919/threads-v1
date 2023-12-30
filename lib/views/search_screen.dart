@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:threads/repos/user_repo.dart';
 
 import '../constants/gaps.dart';
 import '../view_models/settings_view_model.dart';
+import '../view_models/user_view_models.dart';
 import '../widgets/search_tile.dart';
 
 class SearchScreen extends ConsumerStatefulWidget {
@@ -61,7 +61,9 @@ class _DiscoverScreenState extends ConsumerState<SearchScreen> {
             ),
             Gaps.v12,
             FutureBuilder(
-              future: UserRepository.searchUsers(_searchController.value.text),
+              future: ref
+                  .watch(usersProvider.notifier)
+                  .searchUsers(_searchController.value.text),
               builder: (context, snapshot) {
                 if (snapshot.hasData) {
                   return Flexible(
@@ -72,15 +74,11 @@ class _DiscoverScreenState extends ConsumerState<SearchScreen> {
                       ),
                       itemCount: snapshot.data!.length,
                       separatorBuilder: (context, index) => Divider(
-                        color: isDark
-                            ? Colors.grey.shade900
-                            : Colors.grey.shade200,
+                        color: Colors.grey.shade300,
                         indent: 72,
                       ),
                     ),
                   );
-                } else if (snapshot.hasError) {
-                  return Text(snapshot.error.toString());
                 } else {
                   return const CircularProgressIndicator();
                 }

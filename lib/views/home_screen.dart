@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:flutter_svg/svg.dart';
 import 'package:threads/widgets/go_to_top_button.dart';
-
+import 'package:threads/view_models/thread_view_model.dart';
 import '../constants/gaps.dart';
 import '../view_models/settings_view_model.dart';
 import '../widgets/thread.dart';
@@ -63,30 +62,53 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                 elevation: 0,
                 title: Image.asset(
                   'assets/threads.png',
-                  width: 100,
+                  width: 125,
+                  height: 125,
+                  color: isDark ? Colors.white : Colors.black,
+                  colorBlendMode: BlendMode.srcIn,
                 ),
               ),
-              SliverList(
-                delegate: SliverChildBuilderDelegate(
-                  (context, index) {
-                    return const Stack(
-                      children: [
-                        Column(
+              ref.watch(threadProvider).when(
+                data: (data) {
+                  return SliverList(
+                    delegate: SliverChildBuilderDelegate(
+                      (context, index) {
+                        return Stack(
                           children: [
-                            Thread(),
-                            Gaps.v16,
-                            Divider(
-                              height: 0,
-                              thickness: 1,
+                            Column(
+                              children: [
+                                Thread(
+                                  thread: data[index],
+                                ),
+                                Gaps.v16,
+                                const Divider(
+                                  height: 0,
+                                  thickness: 1,
+                                ),
+                                Gaps.v16,
+                              ],
                             ),
-                            Gaps.v16,
                           ],
-                        ),
-                      ],
-                    );
-                  },
-                  childCount: 10,
-                ),
+                        );
+                      },
+                      childCount: data.length,
+                    ),
+                  );
+                },
+                loading: () {
+                  return const SliverToBoxAdapter(
+                    child: Center(
+                      child: CircularProgressIndicator(),
+                    ),
+                  );
+                },
+                error: (e, s) {
+                  return SliverToBoxAdapter(
+                    child: Center(
+                      child: Text("error: ${e.toString()}"),
+                    ),
+                  );
+                },
               ),
             ],
           ),
